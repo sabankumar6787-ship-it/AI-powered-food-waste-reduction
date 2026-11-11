@@ -27,40 +27,6 @@ Commercial kitchens and food services experience significant bottom-line revenue
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- [Node.js](https://nodejs.org/) (v18.0.0 or higher recommended)
-- `npm`
-
-### Installation & Local Setup
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/sabankumar6787-ship-it/AI-powered-food-waste-reduction.git
-   cd AI-powered-food-waste-reduction
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   npm install
-   ```
-
-3. **Start the local development server**:
-   ```bash
-   npm run dev
-   ```
-
-4. **Open in browser**:
-   Navigate to `http://localhost:5173` to interact with the live console and tools.
-
-5. **Build for Production**:
-   ```bash
-   npm run build
-   ```
-
----
 
 ## 📦 Key Functional Modules
 
